@@ -80,7 +80,7 @@
 
 .row{
     height: 150px;
-    background-color: grey;
+    background-color: rgb(19, 144, 185);
     /* border: 2px solid black; */
     /* margin-bottom: 5000px; */
     margin-left: 420px;
@@ -89,7 +89,7 @@
 }
 
 .col2 h1{
-    color: black;
+    color: rgb(231, 231, 231);
     position: absolute;
     left: 1020px;
 
@@ -109,20 +109,20 @@
     left: 412px;
     /* border: 2px solid black; */
     top: 150px; 
-    background-color: grey
+    background-color:lightblue
     ;
 }
 
 .col3 h4{
-    background-color:rgb(207, 193, 163);
-    color:black;
+    background-color:rgb(33, 91, 214);
+    color:white;
     width: 300px;
     margin-left: 15px;
     /* text-align: center; */
 }
 
 .col3 p{
-    
+    font-size: large;
     margin-left: 25px;
 }
 
